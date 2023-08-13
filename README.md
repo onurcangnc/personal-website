@@ -4,7 +4,7 @@ Hello! This repository contains my personal portfolio website. This README file 
 
 ## 🚀 Preview
 
-![Onurcan Genç Portfolio Website](url_to_preview_image.png)
+![Onurcan Genç Portfolio Website](https://i.ibb.co/0tq8Zsr/preview.png)
 
 👉 **[Visit Website](http://www.onurcangenc.com.tr)** 👈
 
